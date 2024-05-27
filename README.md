@@ -1,5 +1,5 @@
 # Calculadora
-Este projeto é uma implementação de uma calculadora simples, desenvolvida com o objetivo de fornecer uma ferramenta prática para a realização de operações matemáticas básicas. A calculadora permite aos usuários realizar adições, subtrações, multiplicações e divisões de maneira fácil e intuitiva.
+Este projeto é uma implementação de uma calculadora simples. A calculadora permite aos usuários realizar adições, subtrações, multiplicações e divisões de maneira fácil e intuitiva.
 
 
 
